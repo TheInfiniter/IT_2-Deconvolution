@@ -1,0 +1,50 @@
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\bin\Debug\Deconvolution.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Deconvolution.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution\Deconvolution\obj\Debug\Deconvolution.pdb
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe.config
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.exe
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.pdb
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.pdb
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csprojResolveAssemblyReference.cache
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Deconvolution.resources
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Properties.Resources.resources
+C:\Users\534.PD.000\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csproj.GenerateResource.Cache
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe.config
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.exe
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.pdb
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.exe
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\bin\Debug\Deconvolution.pdb
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csprojResolveAssemblyReference.cache
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Deconvolution.resources
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.Properties.Resources.resources
+C:\Users\534.PD\Desktop\Deconvolution\Deconvolution\obj\Debug\Deconvolution.csproj.GenerateResource.Cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.Deconvolution.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\мое\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\bin\Debug\Deconvolution.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.Deconvolution.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\bin\Debug\MaterialSkin.dll
+C:\Users\Дима\Documents\Учеба\Программы\Информационные технологии\3 курс 2 семестр\Deconvolution (задача 1)\Deconvolution\obj\Debug\Deconvolution.csproj.CopyComplete
